@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e245ba3e-eb95-4684-b438-2e2fd58d65e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FlappyBirds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/die.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/die.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/hit.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/point.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/points.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/swoosh.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/swoosh.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/wing.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/wing.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/bird-downflap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/bird-midflap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/bird-upflap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/pipe-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sprites/pipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/gameover_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/gamestart_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bSpilynEQHl9HRGCvBcEdDr5sS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.assets.executor": "Run",
+    "Python.bird.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tkinter.executor": "Run",
+    "Python.tkinter_app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Projects/Python Projects/FlappyBirds",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlappyBirds" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e245ba3e-eb95-4684-b438-2e2fd58d65e8" name="Changes" comment="" />
+      <created>1706218463715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706218463715</updated>
+      <workItem from="1706218474192" duration="8258000" />
+      <workItem from="1706227610597" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FlappyBirds$tkinter_app.coverage" NAME="tkinter_app Coverage Results" MODIFIED="1706227987456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlappyBirds$main.coverage" NAME="main Coverage Results" MODIFIED="1706226569479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlappyBirds$tkinter.coverage" NAME="tkinter Coverage Results" MODIFIED="1706227782445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlappyBirds$assets.coverage" NAME="assets Coverage Results" MODIFIED="1706219277161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlappyBirds$bird.coverage" NAME="bird Coverage Results" MODIFIED="1706219510313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/objects" />
+  </component>
+</project>
